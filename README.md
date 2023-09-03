@@ -18,4 +18,4 @@ Oii! Eu sou a Lara , muito prazer!
     <img align = "right" alt = "Rafa-gif" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>   
   
- ![Snake animation] (https://github.com/ArquivosLara/ArquivosLara/blob/dist/github-contribution-grid-snake.svg)
+ 
