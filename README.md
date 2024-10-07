@@ -9,7 +9,7 @@ Oii! Eu sou a Lara , muito prazer!
   
   <div>
   <a href="https://www.instagram.com/laray_ferreira0/" target="_blank"> <img src = https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white> </a>
-  <a href="https://www.linkedin.com/in/lara-ferreira-a9b43620b" target="_blank"> <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a>   
+  <a href="https://www.linkedin.com/in/larafabiaferreira/" target="_blank"> <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white> </a>   
   <a href="larafabiacarvalho20@gmail.com" target="_blank"> <img src = https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white> </a>   
   <a href="https://www.facebook.com/profile.php?id=100045861408487" target="_blank"> <img src = https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white> </a>   
 </div> 
